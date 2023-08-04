@@ -1,5 +1,5 @@
 [package]
-name = "bevy-shader-test"
+name = "bevy-custom-material-boilerplate"
 version = "0.1.0"
 edition = "2021"
 

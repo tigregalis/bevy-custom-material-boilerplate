@@ -7,7 +7,7 @@ use bevy::{
     render::render_resource::{AsBindGroup, ShaderRef},
     sprite::{Material2d, Material2dPlugin, MaterialMesh2dBundle, Mesh2dHandle},
 };
-use bevy_shader_test::{set_window_plugin, WindowRestorePlugin};
+use bevy_custom_material_boilerplate::{set_window_plugin, WindowRestorePlugin};
 
 fn main() {
     App::new()
